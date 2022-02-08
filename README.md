@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiranyakashyap
 - 👀 I’m interested in Electronics and Embedded
-- 🌱 I’m currently learning Masters in Electronics Science
+- 🌱 I’m currently pursuing Masters in Electronics Science
 - 📫 To reach me just [email](mailto:tanoopraj657@gmail.com?)
 
 <!---
